@@ -1,10 +1,13 @@
-<<<<<<< HEAD
-# test1
-=======
-# test1
-이것 저것 해볼까?
+git 모르겠당.
 
 
-아 오련것두 되는 구나....
-재미로 해 봅시당. ^^
->>>>>>> gh-pages
+git branch
+git commit -a -m "message"
+git add .
+git checkout [branchname]
+git push
+git push origin gh-pages
+
+
+.gitignore
+

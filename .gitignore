@@ -75,3 +75,8 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml 
 # *.ipr
+
+# gulp fiels :
+/node_modules/
+/dist/
+/bower_components/
